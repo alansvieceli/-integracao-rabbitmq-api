@@ -1,0 +1,7 @@
+using 
+10,32:     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+
+JsonConvert.SerializeObject(objeto)
+JsonConvert.DeserializeObject<IncluirDocumentoAutosRequest>(string)
+
+https://imasters.com.br/dotnet/net-core-2-1-asp-net-core-2-1-rabbitmq-exemplos-utilizando-mensageria
